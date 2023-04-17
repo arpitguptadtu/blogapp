@@ -10,10 +10,6 @@ A simple blogging webapp built using NodeJS, ExpressJS and MongoDb. Authenticate
 - Remove - Remove a post
 - Edit - Edit an existing post
 
-## Checkout Hosted WebApp here
-
-[Click here ✌](https://blog-app-jatin.herokuapp.com/)
-
 ## Routes
 
 - GET /posts - To view all the posts
@@ -50,14 +46,4 @@ A simple blogging webapp built using NodeJS, ExpressJS and MongoDb. Authenticate
     ├── login.hbs
     ├── posts
     └── register.hbs
-```
-
-# How to run
-
-- Git clone repository
-- Then run these commands in terminal/shell
-
-```npm
-    npm install
-    npm start
 ```
